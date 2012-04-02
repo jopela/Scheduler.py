@@ -2,10 +2,6 @@
 schedule.py user manual
 ================================================================================
 
-Installation
-================================================================================
-This program was written in python and requires no installation per se. It does
-require that you give it permission to execute.Just type chmod +x ./schedule.py.
 
 Usage
 ================================================================================
@@ -20,3 +16,6 @@ problem to solve, you will use the program like this
 
 where problem.txt is the problem file and 300 means the computation budget is
 300 seconds.
+
+Problem details are given in tp3-A11.pdf and you should read this file first
+before using the script.
